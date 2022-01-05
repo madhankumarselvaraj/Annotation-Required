@@ -1,6 +1,6 @@
 # Annotation-Required
 
-This Required annonation used to specific bean property is mandatory.
+This @Required annonation used meaning for specific bean property is mandatory.
 
 # Notes 
 
